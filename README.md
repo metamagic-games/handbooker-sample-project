@@ -10,7 +10,7 @@ With this sample project you can generate Player's Handbook-style documents from
 4. `npm install`
 5. `npm run build`
 
-## Why not just use [Homebrewery](www.homebrewery.com)?
+## Why not just use [Homebrewery](http://homebrewery.naturalcrit.com/)?
 
 Homebrewery is a fantastic tool, and this project wouldn't be possible without their fantastic stylesheet. However, Homebrewery doesn't make collaboration and tracking changes to your document easy. If you're just working alone, and you're not used to working with git, npm, or Markdown, this is not the tool for you.
 
