@@ -16,4 +16,8 @@ Homebrewery is a fantastic tool, and this project wouldn't be possible without t
 
 ## Combining multiple documents
 
-Handbooker will soon allow you to combine an ordered array of files into a single document.
+Handbooker allows you to combine multiple Markdown files into a single PDF. Simply pass in an ordered array of paths, as below:
+
+```
+    const target = [ "./example-document.md", "./example-document.md", ];
+```
