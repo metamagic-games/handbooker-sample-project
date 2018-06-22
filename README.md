@@ -1,7 +1,5 @@
 # handbooker-sample-project
 
-[![npm version](https://badge.fury.io/js/handbooker.svg)](https://badge.fury.io/js/handbooker)
-
 With this sample project you can generate Player's Handbook-style documents from Markdown, using [Handbooker](https://github.com/monolith-games/handbooker).
 
 ## Getting started
