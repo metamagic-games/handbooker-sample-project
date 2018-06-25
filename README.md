@@ -14,7 +14,7 @@ With this sample project you can generate Player's Handbook-style documents from
 
 Homebrewery is a fantastic tool, and this project wouldn't be possible without their fantastic stylesheet. However, Homebrewery doesn't make collaboration and tracking changes to your document easy. If you're just working alone, and you're not used to working with git, npm, or Markdown, this might not be the tool for you.
 
-## Combining multiple documents
+## Combining multiple markdown files
 
 Handbooker allows you to combine multiple Markdown files into a single PDF. Simply pass in an ordered array of paths, as below:
 
