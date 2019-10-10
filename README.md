@@ -1,6 +1,6 @@
 # handbooker-sample-project
 
-With this sample project you can generate Player's Handbook-style documents from Markdown, using [Handbooker](https://github.com/monolith-games/handbooker).
+With this sample project you can generate Player's Handbook-style documents from Markdown, using [Handbooker](https://github.com/paragon-games/handbooker).
 
 ## Getting started
 
