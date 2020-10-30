@@ -34,7 +34,7 @@
   "homepage": "https://github.com/metamagic-games/handbooker-sample-project#readme",
   "dependencies": {
     "lodash": "^4.17.19",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "merge-md": "^1.0.3",
     "path": "^0.12.7"
   },
