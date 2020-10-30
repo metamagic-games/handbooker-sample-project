@@ -38,7 +38,7 @@
     "@babel/core": "^7.12.3",
     "@babel/node": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
-    "handbooker": "^1.6.3",
+    "handbooker": "^1.6.6",
     "husky": "^4.3.0",
     "lodash": "^4.17.20",
     "marked": "^1.2.2",
