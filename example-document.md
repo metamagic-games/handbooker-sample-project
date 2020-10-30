@@ -8,7 +8,10 @@ Suspendisse vel metus libero. Morbi id faucibus velit. Ut malesuada interdum aug
 
 Praesent ante ante, tempor ac auctor ac, accumsan eget sapien. Donec nec enim et odio faucibus ultricies. In quis tincidunt quam. Ut luctus quis orci eu mattis. Curabitur ac mollis turpis, non volutpat turpis. Integer vitae elit non purus sagittis dapibus. Donec eu rutrum erat, sed fermentum turpis. Sed sodales dui dui, eu placerat sem bibendum eu. Suspendisse potenti. Donec turpis sem, faucibus id tempus vitae, tristique a lacus. Nulla vitae nulla ut ipsum viverra scelerisque sed ac arcu.
 
-<img src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/tribune.png' style='z-index:1;position:absolute;bottom:0px;left:0px;width:355px;mix-blend-mode:darken;' />
+<img 
+    src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/tribune.png' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 355px; mix-blend-mode:darken; padding: 0;' 
+/>
 
 ```
 ```
