@@ -1,6 +1,4 @@
-const { handbooker, } = require( "handbooker" );
-
-// ---------------------------------
+import { handbooker, } from "handbooker";
 
 const options = {
 	debug: true,
@@ -12,7 +10,5 @@ const options = {
 const target = "./example-document.md";
 
 const destination = "./example-document.pdf";
-
-// ---------------------------------
 
 handbooker( target, destination, options, );
