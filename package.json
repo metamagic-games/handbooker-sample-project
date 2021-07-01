@@ -39,7 +39,7 @@
     "@babel/node": "^7.12.10",
     "@babel/preset-env": "^7.14.1",
     "handbooker": "^1.6.6",
-    "husky": "^4.3.6",
+    "husky": "^7.0.0",
     "lodash": "^4.17.21",
     "marked": "^1.2.7",
     "merge-md": "^1.0.3",
